@@ -1,3 +1,4 @@
+// Diego Alejandro Cintrón Santiago
 import java.awt.*;
 
 public class Score extends Rectangle {
